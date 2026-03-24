@@ -7,3 +7,4 @@ Dev.ipynb
 .ipynb_checkpoints/
 runs/
 *.pickle
+local/
